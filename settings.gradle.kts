@@ -1,0 +1,3 @@
+
+rootProject.name = "anagram-checker"
+
